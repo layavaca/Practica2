@@ -1,0 +1,41 @@
+
+body{
+    background: url(../Imagenes/fondo.jpg);
+}
+
+nav {
+    background: #000;
+    color: #fff;
+    width: 10%;
+    top: -230px;
+    border-radius: 20px;
+}
+
+.logo{
+    width: 30%;
+    border-radius: 20px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.caja {
+    width: 52%;
+    border: 2px solid;
+    position: relative;
+    top: -190px;
+    bottom:0 ;
+    right: 0;
+    left:420px;
+}
+
+article {
+    position: relative;
+    width: 50%;
+    height: 170px;
+    background: yellowgreen;
+    margin: 20px 350px;
+    border: 2px solid;
+    top: -220px;
+}

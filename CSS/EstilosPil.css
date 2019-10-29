@@ -1,0 +1,82 @@
+body{
+    background: url(../Imagenes/fondoPil1.jpg);
+    background-attachment: fixed;
+    /* background-attachment: scroll; */
+    background-position: 50px;
+}
+   
+nav {
+    color: #f5f3f3;
+    width: 10%;
+    
+}
+
+.logo{
+    width: 100px;
+    left:450px;
+    position: relative;
+   
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.caja {
+    width: 52%;
+    position: relative;
+    left:420px;
+}
+
+.articulo1 {
+    /* para posesicionar  */
+    position: fixed;
+    top: -200px;
+    bottom: 0;
+    right: 0;
+    left: 150px;
+    position: relative;
+
+    width: 45%;
+    height: 450px;
+    background: yellow;
+    margin: 30px ;
+    border: 2px solid;      
+
+}
+
+.articulo2 {
+    /* para posesicionar  */
+    position: fixed;
+    top: -683px;
+    bottom: 0;
+    right: 0;
+    left: 780px;
+
+    width: 35%;
+    height: 400px;
+    background: yellow;
+    margin: 30px ;
+    border: 2px solid; 
+
+    position: relative;
+}
+
+a{
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+footer{  
+    position: relative;
+    top: -600px;
+    bottom: 0;
+    right: 0;
+    left: 0px;
+
+    width: 20%;
+    height: 200px ;
+    margin: 30px ;
+    border: 2px solid; 
+}

@@ -1,0 +1,30 @@
+.contenedor-columnas{
+    width: 85%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.Columna1, .Columna2{
+    width: 40.333%;
+    float: left;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    margin: auto;
+    border: 1.5px solid;
+}
+
+.Columna1{
+    background: #000;
+    border-radius: 20px;
+    color: #fff;
+    width: 10.333%;
+    float: left;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+.autor{
+    width:  100%;
+    background: chocolate;
+    clear: both;
+}
